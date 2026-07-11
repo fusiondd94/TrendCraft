@@ -1,4 +1,4 @@
-import type { ContentPack } from "../../../agent/src/types";
+import type { ContentPack } from "~/agent";
 
 export const mockContentPacks: ContentPack[] = [
   {
